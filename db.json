@@ -1,0 +1,29 @@
+{
+  "Products": [
+    {
+      "name": "SmartPhone",
+      "price": 90,
+      "id": 0
+    },
+    {
+      "name": "Watch",
+      "price": 40,
+      "id": 1
+    },
+    {
+      "name": "Shirt",
+      "price": 60,
+      "id": 2
+    },
+    {
+      "name": "Pants",
+      "price": 50,
+      "id": 3
+    },
+    {
+      "id" : 4,
+      "name": "Speaker",
+      "price": 80
+    }
+  ]
+}
